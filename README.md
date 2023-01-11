@@ -1,5 +1,7 @@
+![MasterHead](https://img.freepik.com/premium-vector/devops-concept-business-illustration-red-blue-neon-gradients_52246-363.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm Bharath Kumar Narva</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
+<img align="right" alt="Coding" hight="400" width="488" src=https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif>
 
 🔭 Banana Apps Limited * [Web Services] * (Internship) 8-Months jun-2022 to jan-2023
 
@@ -8,10 +10,10 @@
 📫 How to reach me **bharath.narva09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="right">
-<a href="https://linkedin.com/in/narva bharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narva bharath" height="30" width="40" /></a>
-<a href="https://fb.com/narva bharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="narva bharath" height="30" width="40" /></a>
-<a href="https://instagram.com/narva bharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narva bharath" height="30" width="40" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/bharath-kumar-narva-4598a8151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narva bharath" height="30" width="40" /></a>
+<a href="https://fb.com/Narva Bharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Narva Bharath" height="30" width="40" /></a>
+<a href="https://instagram.com/narvabharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narvabharath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tools:</h3>
