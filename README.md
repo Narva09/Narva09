@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there My Self Bharath Kumar Narva 👋
+git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
+cd github-profile-readme-generator
+npm install
+npm start
 
 <!--
 **Narva09/Narva09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
