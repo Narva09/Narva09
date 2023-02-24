@@ -3,7 +3,7 @@
 <h3 align="center">A passionate DevOps Engineer</h3>
 <img align="right" alt="Coding" hight="400" width="488" src=https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif>
 
-🔭 Banana Apps Limited * [Web Services] * (Internship) 8-Months jun-2022 to jan-2023
+🔭 Banana Apps Limited * [Web Services] [Finance] * (Internship) 8-Months jun-2022 to jan-2023
 
 🤝 I’m looking for * [Sponsorship After 2Yrs] * (Full-Time, Permanent, On-Site, Contract)
 
